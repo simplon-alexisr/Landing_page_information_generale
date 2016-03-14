@@ -1,0 +1,64 @@
+
+body{
+  margin: 0;
+  width: 90%;
+  margin-left: 10%;
+  font-family: "Ubuntu";
+}
+
+.info_ge_objectif, .info_ge_date, .info_ge_lieu, .info_ge_candidat{
+  margin-top: 4%;
+}
+
+.info_ge_img{
+  width: 5%;
+  float: left;
+  margin-top: -1.7%;
+}
+
+
+.info_ge_titre{
+  margin-top: 3%;
+  display: flex;
+  color: #ED1450;
+}
+
+.info_ge_button{
+  margin-top: 0.5%;
+  margin-left: 45%;
+}
+
+#info_ge_button{
+  background-color: #ED1450;
+  color: white;
+  width: 120px;
+  height: 50px;
+  border-radius: 15px;
+}
+
+.info_ge_objectif{
+  color: #b0b0b0;
+}
+
+.info_ge_date{
+  color: #b0b0b0;
+}
+
+.info_ge_lieu{
+  color: #b0b0b0;
+}
+
+.info_ge_candidat{
+  color: #b0b0b0;
+}
+
+.info_ge_hyperlien{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.info_ge_map{
+  margin-top: -35%;
+  margin-left: 45%;
+}
